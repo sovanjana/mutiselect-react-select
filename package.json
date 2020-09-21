@@ -1,0 +1,21 @@
+{
+  "name": "custom-react-select",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-select": "3.1.0",
+    "react-dom": "^16.13.0"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
